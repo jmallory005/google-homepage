@@ -1,0 +1,50 @@
+#img{
+	position: absolute;
+	left: 50%;
+	top:35%;
+	margin-left: -134.5px;
+	margin-top: -47.5px;
+	height: 115px;
+	width: 300px;
+}
+
+
+#form{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -255px;
+	margin-top: -10px;
+	/*background-color: blue;
+	border: solid black 2px;
+	padding: 10px;
+*/	
+}
+
+div form textarea{
+	height: 20px;
+	width: 525px;
+}
+
+.button{
+	display: inline;
+	height: 25px;
+	width: 500px;
+	background-color: #4747F5;
+	border: 1px solid black;
+
+	color: #F0E800;
+	text-align: center;
+	font: bold 1em/25px "Helvetica";
+	border-radius: 5px;
+
+	margin-left: 10px;
+}
+
+#button-position{
+	position: absolute;
+	margin-left: 650px;
+	margin-top: 500px;
+}
+
+
